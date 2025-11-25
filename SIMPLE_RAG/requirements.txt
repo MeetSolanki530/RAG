@@ -1,0 +1,12 @@
+langchain 
+langchain-core
+langchain-community 
+langchain-ollama 
+streamlit
+fastapi 
+python-multipart 
+uvicorn 
+pypdf 
+pypdf2 
+faiss-cpu 
+ollama
